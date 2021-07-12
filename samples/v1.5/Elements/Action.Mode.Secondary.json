@@ -1,8 +1,8 @@
 {
-  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
-  "type": "AdaptiveCard",
-  "version": "1.5",
-  "body": [
+	"$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+	"type": "AdaptiveCard",
+	"version": "1.5",
+	"body": [
 		{
 			"type": "Image",
 			"url": "https://adaptivecards.io/content/adaptive-card-50.png"
@@ -128,8 +128,8 @@
 			"type": "TextBlock",
 			"text": "========= I am bottom line of body ========="
 		}
-  ],
-  "actions": [
+	],
+	"actions": [
 		{
 			"type": "Action.OpenUrl",
 			"title": "Root - OpenUrl",
@@ -170,5 +170,5 @@
 			},
 			"mode": "Secondary"
 		}
-  ]
+	]
 }
